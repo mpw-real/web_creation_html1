@@ -1,0 +1,47 @@
+details{
+    cursor: pointer;
+}
+table tr th ul{
+    list-style: none;
+}
+table tr th ul li{
+    margin: 2;
+    padding: 20px;
+    background-color: rgb(174, 101, 243); overflow: ;
+    float: left;
+}
+table tr th ul li:hover{
+    cursor: pointer;
+    background-color: rgb(118, 124, 223);
+}
+h2{
+    color: rgba(73, 73, 234, 0.916);
+    font-size: xx-large;
+}
+h1{
+    color:purple;
+    font-style: oblique;
+    font-size: 60px;
+    background-color: aqua;
+}
+details{
+    margin: 5px;
+    padding: 10px;
+    background-color: rgb(178, 204, 251);
+    font-size: large;
+    
+}
+details summary{
+   color: indigo;
+}
+body{
+    background-color: rgb(252, 224, 255);
+}
+marquee{
+    font-size: x-large;
+    padding: 10px;
+    margin-bottom: 10px;
+    font-style: italic;
+    background-color: darkblue;
+    color: aliceblue;
+}
